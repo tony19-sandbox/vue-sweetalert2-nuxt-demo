@@ -1,22 +1,7 @@
-# nuxt-tmp8
+> Demo of [`vue-sweetalert2`](https://www.npmjs.com/package/vue-sweetalert2) with Nuxt
 
-> My prime Nuxt.js project
+Steps:
 
-## Build Setup
-
-``` bash
-# install dependencies
-$ yarn install
-
-# serve with hot reload at localhost:3000
-$ yarn run dev
-
-# build for production and launch server
-$ yarn run build
-$ yarn start
-
-# generate static project
-$ yarn run generate
-```
-
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+ 1. From project root, run `yarn` or `npm install`
+ 2. Run `yarn dev`
+ 3. Open `http://localhost:3000`
