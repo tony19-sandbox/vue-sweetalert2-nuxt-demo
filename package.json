@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-tmp8",
+  "version": "1.0.0",
+  "description": "My prime Nuxt.js project",
+  "author": "Tony Trinh",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.0",
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.3.4",
+    "vue-sweetalert2": "^3.0.6"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
